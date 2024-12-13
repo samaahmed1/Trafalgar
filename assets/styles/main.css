@@ -212,6 +212,7 @@ header nav ul li a.active
 }
 .services .container .cards-list .card  {
   padding: 20px;
+  height: 330px;
 }
 .services .container .cards-list .card img {
  margin: 10px 0;
